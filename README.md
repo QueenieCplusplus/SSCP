@@ -7,15 +7,6 @@ System Security
 
 https://github.com/QueenieCplusplus/SSCP_AccessControl
 
-2. Admin
+2. Network & Recovery
 
-3. Monitor
-
-4. Recovery
-
-5. Cryptography
-
-6. Network
-
-7. System & App
-
+3. Monitor & Admin
