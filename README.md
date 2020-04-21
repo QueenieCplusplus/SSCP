@@ -28,3 +28,5 @@ Bypass Contents:
 9. Forensic Assessment <3>
 
 10. Cipher & Encrpto <5>
+
+https://github.com/QueenieCplusplus/QuickGoThru#資安研究
