@@ -9,4 +9,6 @@ https://github.com/QueenieCplusplus/SSCP_AccessControl
 
 2. Network & Recovery
 
+https://github.com/QueenieCplusplus/SSCP_Network
+
 3. Monitor & Admin
