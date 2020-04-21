@@ -11,14 +11,14 @@ https://github.com/QueenieCplusplus/SSCP_AccessControl
 
 https://github.com/QueenieCplusplus/SSCP_Network
 
-3. Physical Security <2-8>
+3. Admin: Physical Security <2-8>
 
 4. Admin: Change Mgmt Duty <2-6>
 
-5. Monitor (identify & analysis potential attack) <7-1>
+5. System: Monitor (identify & analysis potential attack) <7-1>
 
-6. Incident Handling <4-1>
+6. Problem Shoot: Incident Handling <4-1>
 
-7. Recovey Plan & Business Continuity <4-3>
+7. Problem Shoot: Recovey Plan & Business Continuity <4-3>
 
-8. Cloud Security <7-2>
+8. System: Cloud Security <7-2>
