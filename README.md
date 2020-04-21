@@ -13,7 +13,7 @@ https://github.com/QueenieCplusplus/SSCP_Network
 
 3. Monitor (identify & analysis potential attack) <7-1>
 
-4  Incident Handling <4-1>
+4. Incident Handling <4-1>
 
 5. Recovey Plan & Business Continuity <4-3>
 
