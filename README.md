@@ -22,3 +22,9 @@ https://github.com/QueenieCplusplus/SSCP_Network
 7. Problem Shoot: Recovey Plan & Business Continuity <4-3>
 
 8. System: Cloud Security <7-2>
+
+Bypass Contents:
+
+9. Forensic Assessment
+
+10. Cipher & Encrpto
