@@ -7,8 +7,10 @@ System Security
 
 https://github.com/QueenieCplusplus/SSCP_AccessControl
 
-2. Network & Recovery
+2. Network 
 
 https://github.com/QueenieCplusplus/SSCP_Network
 
-3. Monitor & Admin
+3. Monitor (identify & analysis potential attack) 
+
+4. Cloud Security
