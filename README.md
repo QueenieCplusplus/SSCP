@@ -17,6 +17,8 @@ https://github.com/QueenieCplusplus/SSCP_Network
 
 5. System: Monitor (identify & analysis potential attack) <7>
 
+https://github.com/QueenieCplusplus/SSCP_System
+
 6. Problem Shoot: Incident Handling <4>
 
 7. Problem Shoot: Recovey Plan & Business Continuity <4>
