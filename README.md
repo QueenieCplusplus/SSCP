@@ -15,7 +15,7 @@ https://github.com/QueenieCplusplus/SSCP_Network
 
 4. Admin: Change Mgmt Duty <2>
 
-5. System: Monitor (identify & analysis potential attack) 
+5. System: Monitor (identify & analysis potential attacks) 
 
 https://github.com/QueenieCplusplus/SSCP_System
 
@@ -32,3 +32,8 @@ Bypass Contents:
 10. Cipher & Encrpto 
 
 https://github.com/QueenieCplusplus/QuickGoThru#資安研究
+
+
+
+
+
