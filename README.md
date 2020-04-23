@@ -21,6 +21,8 @@ https://github.com/QueenieCplusplus/SSCP_System
 
 6. Problem Shoot: Incident Handling <4>
 
+https://github.com/QueenieCplusplus/SSCP_TroubleShoot
+
 7. Problem Shoot: Recovey Plan & Business Continuity <4>
 
 8. System: Cloud Security <7>
@@ -32,8 +34,6 @@ Bypass Contents:
 10. Cipher & Encrpto 
 
 https://github.com/QueenieCplusplus/QuickGoThru#資安研究
-
-
 
 
 
