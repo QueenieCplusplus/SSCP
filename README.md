@@ -19,7 +19,7 @@ https://github.com/QueenieCplusplus/SSCP_Network
 
 https://github.com/QueenieCplusplus/SSCP_System
 
-6. Problem Shoot: Incident Handling <4>
+6. Problem Shoot: Incident Handling 
 
 https://github.com/QueenieCplusplus/SSCP_TroubleShoot
 
