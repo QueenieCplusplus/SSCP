@@ -21,9 +21,4 @@ https://github.com/QueenieCplusplus/SSCP_System
 
 https://github.com/QueenieCplusplus/SSCP_TroubleShoot
 
-6. Problem Shoot: Recovey Plan & Business Continuity <4>
-
-7. System: Cloud Security <7>
-
-
-
+6. System: Cloud Security <7>
