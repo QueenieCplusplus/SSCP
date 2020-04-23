@@ -13,27 +13,17 @@ https://github.com/QueenieCplusplus/SSCP_Network
 
 3. Admin: Physical Security <2>
 
-4. Admin: Change Mgmt Duty <2>
-
-5. System: Monitor (identify & analysis potential attacks) 
+4. System: Monitor (identify & analysis potential attacks) 
 
 https://github.com/QueenieCplusplus/SSCP_System
 
-6. Problem Shoot: Incident Handling 
+5. Problem Shoot: Incident Handling 
 
 https://github.com/QueenieCplusplus/SSCP_TroubleShoot
 
-7. Problem Shoot: Recovey Plan & Business Continuity <4>
+6. Problem Shoot: Recovey Plan & Business Continuity <4>
 
-8. System: Cloud Security <7>
-
-Bypass Contents:
-
-9. Forensic Assessment 
-
-10. Cipher & Encrpto 
-
-https://github.com/QueenieCplusplus/QuickGoThru#資安研究
+7. System: Cloud Security <7>
 
 
 
