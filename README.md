@@ -4,7 +4,7 @@
 
 --------------------------------------------------------
 
-1. Access Control 
+1. Access Control (auth)
 
 https://github.com/QueenieCplusplus/SSCP_AccessControl
 
