@@ -16,7 +16,9 @@ https://github.com/QueenieCplusplus/SSCP_Network
 
 --------------------------------------------------------
 
-3. Admin: Physical Security <2>
+3. Admin: Physical Security 
+
+https://github.com/QueenieCplusplus/SSCP_Admin
 
 --------------------------------------------------------
 
