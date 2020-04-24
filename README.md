@@ -10,7 +10,7 @@ https://github.com/QueenieCplusplus/SSCP_AccessControl
 
 --------------------------------------------------------
 
-2. Network (Data-Link Attacks is included)
+2. Network (Data-Link Attacks & Layer 5-6 are included)
 
 https://github.com/QueenieCplusplus/SSCP_Network
 
