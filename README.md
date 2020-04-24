@@ -34,7 +34,7 @@ https://github.com/QueenieCplusplus/SSCP_TroubleShoot
 
 --------------------------------------------------------
 
-6. System: Cloud Security <7>
+6. System: Cloud Security 
 
 
 --------------------------------------------------------
