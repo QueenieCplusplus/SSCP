@@ -34,7 +34,7 @@ https://github.com/QueenieCplusplus/SSCP_TroubleShoot
 
 --------------------------------------------------------
 
-6. System: Cloud Security 
+6. System: Cloud Security (Data Loss Prevention)
 
 https://github.com/QueenieCplusplus/SSCP_CloudSecurity
 
